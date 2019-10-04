@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SAD_Project01.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SAD_Project01_net_textapp_www_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.textapp.net/webservice/service.asmx</Value>
+    </Setting>
+    <Setting Name="Testing1ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=testsadpro.database.windows.net;Initial Catalog=Testing1;Persist Security Info=True;User ID=Harsha;Password=Ha0773341555&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=testsadpro.database.windows.net;Initial Catalog=Testing1;Persist Security Info=True;User ID=Harsha;Password=Ha0773341555</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

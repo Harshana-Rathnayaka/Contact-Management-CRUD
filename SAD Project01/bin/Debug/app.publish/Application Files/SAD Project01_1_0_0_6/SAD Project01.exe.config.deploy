@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="SAD_Project01.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <connectionStrings>
+        <add name="SAD_Project01.Properties.Settings.Testing1ConnectionString"
+            connectionString="Data Source=testsadpro.database.windows.net;Initial Catalog=Testing1;Persist Security Info=True;User ID=Harsha;Password=Ha0773341555"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <applicationSettings>
+        <SAD_Project01.Properties.Settings>
+            <setting name="SAD_Project01_net_textapp_www_Service" serializeAs="String">
+                <value>http://www.textapp.net/webservice/service.asmx</value>
+            </setting>
+        </SAD_Project01.Properties.Settings>
+    </applicationSettings>
+</configuration>

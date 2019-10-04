@@ -1,0 +1,4 @@
+Import the bac file as SAD
+
+username : Hash
+password : 1
